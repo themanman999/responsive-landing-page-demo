@@ -3,8 +3,12 @@
 A demo landing page for **Caffè Roma**, promoting an online loyalty sign-up program.  
 The goal of this project is **lead generation** – encouraging users to join the loyalty program by submitting their email.
 
+---
+
 ## 🌐 Live Demo
-https://
+👉 [View Live on GitHub Pages](https://themanman999.github.io/responsive-landing-page-demo/)
+
+---
 
 ## 🎯 Features
 - Responsive hero section with Italian café vibes  
@@ -12,14 +16,25 @@ https://
 - Warm, elegant coffee-inspired design  
 - Fully client-side – no backend required for demo  
 
+---
+
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla JS)**
+
+---
 
 ## 🚀 Getting Started
-To view locally:
+
+To view this project locally:
+
 ```bash
+# Clone the repository
 git clone https://github.com/themanman999/responsive-landing-page-demo.git
+
+# Navigate into the folder
 cd responsive-landing-page-demo
+
+# Open in your browser
 open index.html
