@@ -1,0 +1,14 @@
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+
+# Node / package files (if added later)
+node_modules/
+npm-debug.log
+
+# Build or output directories
+dist/
+build/
+
+# Environment files (if backend added later)
+.env
