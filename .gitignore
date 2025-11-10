@@ -1,14 +1,17 @@
-# OS & Editor junk
+# OS files
 .DS_Store
 Thumbs.db
 
-# Node / package files (if added later)
-node_modules/
-npm-debug.log
+# VS Code workspace files
+*.code-workspace
+.vscode/
 
-# Build or output directories
+# Node modules (if you ever use Node)
+node_modules/
+
+# Build folders (if you add any build tools later)
 dist/
 build/
 
-# Environment files (if backend added later)
+# Environment files (for backend/API keys)
 .env
